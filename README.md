@@ -1,2 +1,0 @@
-# hexnsx.github.io
-test
